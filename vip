@@ -1,22 +1,22 @@
 [
   {
     "name":"နေ့တိုက်",
-    "multi":false,
+    "name_en":"Dayily",
     "img":"https://i.imgur.com/55XWR1m.jpg"
   },
   {
     "name":"တစ်ရက်စာထိပ်စီး",
-    "multi":false,
+    "name_en":"Dayily First",
     "img":"https://i.imgur.com/rOy0kSh.jpg"
   },
   {
     "name":"တစ်ပတ်စာလက်ဆောင်",
-    "multi":false,
+    "name_en":"Weekly Lucky",
     "img":"https://i.imgur.com/qPCzexH.jpg"
   },
   {
     "name":"ရွှေအိုး",
-    "multi":false,
+    "name_en":"Shwe Owe",
     "img":"https://i.imgur.com/DdyUoZV.jpg"
   }
 ]
